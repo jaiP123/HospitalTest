@@ -13,6 +13,7 @@ Node.js installed on your machine
 
 Steps -
 1.Clone the repository:
+https://github.com/jaiP123/HospitalTest
 
 2.Navigate to project directory
 
